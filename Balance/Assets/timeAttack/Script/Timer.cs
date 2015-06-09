@@ -101,7 +101,7 @@ public class Timer : MonoBehaviour
 		currentTime = Time.time - startTime;
 		
 		//After 30 seconds go to level 2
-		if (currentTime > 30 && Application.loadedLevelName == "TimeAttack") {
+		if (currentTime > 40 && Application.loadedLevelName == "TimeAttack") {
 			
 			Application.LoadLevel ("GameOver");
 			
