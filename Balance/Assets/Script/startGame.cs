@@ -17,7 +17,7 @@ public class startGame : MonoBehaviour
 	//}
 
 
-	void OnMouseDown ()
+	void OnmouseDown ()
 	{
 
 		Application.LoadLevel (1);
