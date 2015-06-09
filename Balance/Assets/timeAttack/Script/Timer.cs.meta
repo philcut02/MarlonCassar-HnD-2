@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db11673ff89555e43a66fc9e3be1f566
+timeCreated: 1431772996
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - boxSound: {instanceID: 0}
+  - stylesheet: {fileID: 11400000, guid: c34eda0719525ae439c794517535dba8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
