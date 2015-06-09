@@ -11,17 +11,6 @@ public class startGame : MonoBehaviour
 
 	}
 
-	//public void PressMuteButton()
-	//{
-	//	Debug.Log ("mute button pressed");
-	//}
-
-
-	void OnMouseDown ()
-	{
-
-		Application.LoadLevel (1);
-	}
 
 
 }
